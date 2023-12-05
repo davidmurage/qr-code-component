@@ -16,9 +16,9 @@ body{
 
 .container{
     background-color: #fff;
-    width: 390px;
-    border-radius: 10px;
-    padding: 41px;
+    width: 391px;
+    border-radius: 11px;
+    padding: 40px;
 }
 
 .qr-code {
