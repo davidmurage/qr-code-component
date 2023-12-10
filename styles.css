@@ -16,13 +16,13 @@ body{
 
 .container{
     background-color: #fff;
-    width: 391px;
-    border-radius: 11px;
+    width: 390px;
+    border-radius: 10px;
     padding: 40px;
 }
 
 .qr-code {
-    border-radius: 1rem;
+    border-radius: 2rem;
     overflow: hidden;
 }
 
@@ -43,7 +43,7 @@ body{
 }
 
 .attribution { 
-        font-size: 12px; 
+        font-size: 13px; 
         text-align: center;
         margin-top: 10px;
     
