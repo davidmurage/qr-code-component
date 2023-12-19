@@ -17,8 +17,8 @@ body{
 .container{
     background-color: #fff;
     width: 390px;
-    border-radius: 10px;
-    padding: 40px;
+    border-radius: 12px;
+    padding: 41px;
 }
 
 .qr-code {
@@ -37,9 +37,9 @@ body{
 }
 
 .header p{
-    margin-top: 16px ;
+    margin-top: 15px ;
     color: gray;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 .attribution { 
