@@ -18,7 +18,7 @@ body{
     background-color: #fff;
     width: 390px;
     border-radius: 12px;
-    padding: 41px;
+    padding: 40x;
 }
 
 .qr-code {
@@ -43,7 +43,7 @@ body{
 }
 
 .attribution { 
-        font-size: 13px; 
+        font-size: 14px; 
         text-align: center;
         margin-top: 10px;
     
