@@ -17,7 +17,7 @@ body{
 .container{
     background-color: #fff;
     width: 390px;
-    border-radius: 12px;
+    border-radius: 11px;
     padding: 40x;
 }
 
@@ -33,7 +33,7 @@ body{
 .header h1{
     width: fit-content;
     text-align: center;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
 }
 
 .header p{
