@@ -33,13 +33,13 @@ body{
 .header h1{
     width: fit-content;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
 
 .header p{
     margin-top: 15px ;
     color: gray;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .attribution { 
